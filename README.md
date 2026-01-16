@@ -122,12 +122,6 @@ Quality-focused personal brand demonstrating design sensibility.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satishacharya03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=10B981&text_color=ffffff&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishacharya03&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=F59E0B&currStreakLabel=ffffff" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishacharya03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=ffffff&langs_count=8" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishacharya03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=10B981&point=ffffff" width="49%" />
 </div>
 
