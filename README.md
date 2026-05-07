@@ -122,7 +122,7 @@ Quality-focused personal brand demonstrating design sensibility.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishacharya03&theme=github-compactt&bg_color=0d1117&color=3B82F6&line=10B981&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishacharya03&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=00E676&point=ffffff&area=true&hide_border=true" width="90%" />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satishacharya03/satishacharya03/output/github-contribution-grid-snake-dark.svg">
