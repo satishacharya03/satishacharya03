@@ -124,9 +124,11 @@ Quality-focused personal brand demonstrating design sensibility.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishacharya03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=10B981&point=ffffff" width="49%" />
 </div>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satishacharya03/satishacharya03/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satishacharya03/satishacharya03/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/satishacharya03/satishacharya03/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🤝 Open for Collaboration
 
